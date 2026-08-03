@@ -16,6 +16,11 @@ In this project you will build such a pipeline.
   * [Running the entire pipeline or just a selection of steps](#Running-the-entire-pipeline-or-just-a-selection-of-steps)
   * [Pre-existing components](#pre-existing-components)
 
+## Project Links
+
+  - [GitHub repository](https://github.com/mia-c25/Project-Build-an-ML-Pipeline-Starter)
+  - [Public Weights & Biases project](https://wandb.ai/mcc022404-western-governors-university/nyc_airbnb)
+
 ## Preliminary steps
 
 ### Supported Operating Systems
